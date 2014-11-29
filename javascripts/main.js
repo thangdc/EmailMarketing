@@ -2,7 +2,7 @@ $(function () {
 	$('#tblEmailExtractor').dataTable({
 		"dom": 'T<"clear">lfrtip',
 		"tableTools": {
-			"sSwfPath": "/content/copy_csv_xls_pdf.swf"
+			"sSwfPath": "content/copy_csv_xls_pdf.swf"
 		}
 	});
 	
