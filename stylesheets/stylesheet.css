@@ -897,7 +897,9 @@ div.DTTT {
 	padding: 0;
 	margin-left:0;
 	color: #000;
-	border:0;
+	border:0 !important;
+	background: none !important;
+	padding: 0 !important;
 }
 
 .wait {
